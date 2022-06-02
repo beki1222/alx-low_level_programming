@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 	/**
-	 * main - prints qute
+	 * main - Entry point
 	 *
-	 * Return: zero on success
+	 * Return: Always 0 (success)
 	 *
 	 */
 int main(void)
