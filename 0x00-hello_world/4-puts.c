@@ -3,11 +3,12 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (success) 
+ * Return: Always 0 (success)
+ *
  */
 int main(void)
 {
-char *s = "\"Programming is like building a multilingual puzzle \n";
+char *s = "\"Programming is like building a multilingual puzzl\n";
 puts(s);
 return (0);
 }
