@@ -1,5 +1,7 @@
 #include <stdlib.h>
+#include <stdio.h>
 #include <time.h>
+
 /* more headers goes there */
 
 /* to print the lowercase alphabet*/
@@ -13,6 +15,6 @@ int main(void)
 		putchar(letter);
 		letter++;
 	}
-	putchar(\'n');
+	putchar('\n');
 	return (0);
 }
