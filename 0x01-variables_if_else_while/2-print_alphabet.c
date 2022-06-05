@@ -2,9 +2,15 @@
 #include <stdio.h>
 #include <time.h>
 
-/* more headers goes there */
-
-/* to print the lowercase alphabet*/
+/**
+ * main - Prints alphabet
+ * @void: Empty parameter list for main.
+ *
+ * Description: Prints the alphabet in lower case
+ * Can only use putchar
+ *
+ * Return: 0 for success
+ */
 int main(void)
 {
 	char letter = 'a';
