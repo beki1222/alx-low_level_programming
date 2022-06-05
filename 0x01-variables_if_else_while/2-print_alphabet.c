@@ -5,7 +5,6 @@
 /* more headers goes there */
 
 /* to print the lowercase alphabet*/
-
 int main(void)
 {
 	char letter = 'a';
