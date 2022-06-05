@@ -8,9 +8,10 @@ int main(void)
 {
 	char n;
 
-	putchar("lower case characters:\n");
+
 	for(n='a'; i<='z'; i++);
-	putchar("%c ", n);
+	putchar(ch);
+	putchar('\n');
 
 	return (0);
 }
