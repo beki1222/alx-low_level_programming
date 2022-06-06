@@ -4,7 +4,7 @@
  * main - Prints alphabet
  * @void: Empty parameter list for main.
  *
- * Description: Prints all single digit numbers of base 10 starting from 0 
+ * Description: Prints numbers 0-9 
  *
  * Return: 0 for success
  */
