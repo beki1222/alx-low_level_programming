@@ -22,7 +22,6 @@ int main(void)
 		{
 			letter++;
 		}
-		
 		else if (letter == 'e')
 		{
 			letter++;
