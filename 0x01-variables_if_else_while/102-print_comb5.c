@@ -1,14 +1,10 @@
 #include<stdio.h>
 
 /**
- *
- *  * main - prints all possible different combinations of three digits.
- *
- *   * followed by a new line
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+ * main - prints all possible combinations of two two-digit numbers,
+ * followed by a new line
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int i, j;
