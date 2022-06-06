@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints alphabet*
+ * main - Prints alphabet
  * @void: Empty parameter list for main.
  *
  * Description: Prints all single digit numbers of base 10 starting from 0 
