@@ -16,15 +16,15 @@ int main(void)
 {
 	char letter = 'a';
 
-	while(letter <= 'z');
+	while(letter <= 'z')
 	{
 		putchar("letter");
 	        letter++;
 	}
 	
-	char letter = 'A';
+	letter = 'A';
 
-	while(letter <= 'Z');
+	while(letter <= 'Z')
 		{
 			putchar(letter);
 			letter++;
