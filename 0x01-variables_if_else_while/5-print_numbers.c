@@ -1,7 +1,9 @@
-#include <stdio.h>
+#include<stdlib.h>
+#include<stdio.h>
+#include<time.h>
 
 /**
- * main - Prints alphabet
+ * main - Prints base 10 numbers
  * @void: Empty parameter list for main.
  *
  * Description: Prints numbers 0-9 
