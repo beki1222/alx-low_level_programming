@@ -7,9 +7,7 @@
  * Return: sum of both ints
  */
 
-int add(int i, int j, sum)
+int add(int i, int j)
 {
-	sum = i + j;
-	
-	_putchar(sum);
+	return (i + j);
 }
