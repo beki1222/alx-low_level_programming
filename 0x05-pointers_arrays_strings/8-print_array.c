@@ -3,6 +3,7 @@
 
 /**
  * print_array - print n digits of an array
+ *
  * @a: array to print 
  *
  * @n: number of values to print
