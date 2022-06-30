@@ -28,4 +28,3 @@ int _sqrt(int prev, int root)
 		return (prev);
 	return (_sqrt(prev + 1, root));
 }
-		
