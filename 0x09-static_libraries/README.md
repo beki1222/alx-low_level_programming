@@ -1,1 +1,1 @@
- my static librariy readme
+ my redame on staticc libraries 
